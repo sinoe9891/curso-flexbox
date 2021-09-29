@@ -1,4 +1,4 @@
-# curso-flexbox
+# Curso FlexBox
 1. Display Flex (descarga materiales aquí)
 
 63. Flex Direction 
